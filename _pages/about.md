@@ -27,7 +27,7 @@ Currently I am
 
 ### Open Codes Hackathon (Hack & Söhne)
 
-<figure style="width: 640px" class="align-center">
+<figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/about_page/och_speaker.jpg" alt="">
   <figcaption></figcaption>
 </figure> 
@@ -62,7 +62,7 @@ The project name is [Tips und Tricks zur Ausarbeitung (TiTrAa)](https://github.c
 
 ### Linux workshops
 
-<figure style="width: 640px" class="align-center">
+<figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/about_page/linux_ws_plakat.png" alt="">
   <figcaption></figcaption>
 </figure> 
