@@ -49,9 +49,16 @@ Recently we started a theory-pdg branch that focusses on theoretical aspects of 
 
 During my Bachelors I had a quite high passion for teaching and giving workshops. It revived a little bit through the activites of Hack & Söhne.
 
+### Deep Learning Workshop
+
+A workshop I did through [Hack & Söhne](https://hackundsoehne.de "Hack & Söhne") together with [Maximillian Franz](https://github.com/MaximilianFranz "Max on github") and [Leander](https://github.com/LeanderK "Leander on github"). We wanted to make very low level concepts clear and not just do tensorflow.train.
+[See workshop page here.](https://hackundsoehne.de/deeplearning "Link to Deep Learning Workshop")
+
+
 ### Writing a thesis workflow workshop
 
-After my bachelor thesis I was frustrated that the writing workflow is so hard to learn. That's why I made a workshop about it at [IIIT Karlsruhe](https://www.iiit.kit.edu/ "IIIT Karlsruhe"). The project name is [Tips und Tricks zur Ausarbeitung (TiTrAa)](https://github.com/theRealSuperMario/titraa_public/blob/master/MARKDOWN/index.markdown "Github Repository"). Public material is available on github.
+After my bachelor thesis I was frustrated that the writing workflow is so hard to learn. That's why I made a workshop about it at [IIIT Karlsruhe](https://www.iiit.kit.edu/ "IIIT Karlsruhe"). 
+The project name is [Tips und Tricks zur Ausarbeitung (TiTrAa)](https://github.com/theRealSuperMario/titraa_public/blob/master/MARKDOWN/index.markdown "Github Repository"). Public material is available on github.
 
 ### Linux workshops
 
