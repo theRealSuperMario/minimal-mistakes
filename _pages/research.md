@@ -41,4 +41,4 @@ Proc. Intl. Soc. Mag. Reson. Med. 26:4093 (2018), Paris](http://indexsmart.miras
 
 ## Thesis
 
-[Bachelor Thesis - Simulation einer Lichtfeld Kamera mit Blendenmodulation](https://www.dropbox.com/s/afq30s1223xrel9/SimulationEinerLichtfeldKameraMitBlendenmodulation.pdf?dl=0 "Dropbox Link")
+[Bachelor Thesis - Simulation einer Lichtfeldkamera mit Blendenmodulation](https://www.dropbox.com/s/afq30s1223xrel9/SimulationEinerLichtfeldKameraMitBlendenmodulation.pdf?dl=0 "Dropbox Link")
