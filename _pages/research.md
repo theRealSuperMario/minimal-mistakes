@@ -26,10 +26,10 @@ on semantic segmentation of LIDAR scans for autonomous driving.
 
 # Publications
 
-Poster Presentation \
+Poster Presentation <br/>
 [S. Braun, P. Ceccaldi, X. Chen, B. Odry, B. Mailhe, M. Nadar, “Motion Detection and Quality Assessment of MR images with Deep Convolutional DenseNets”, Proc. Intl. Soc. Mag. Reson. Med. 26:2715 (2018), Paris](http://indexsmart.mirasmart.com/ISMRM2018/PDFfiles/2715.html "Link")
 
-Poster Presentation \
+Poster Presentation <br/>
 [S. Braun, X. Chen, B. Odry, B. Mailhe, M. Nadar, “Wasserstein GAN for Motion Artifact Reduction of MR images”, Proc. Intl. Soc. Mag. Reson. Med. 26:4093 (2018), Paris](http://indexsmart.mirasmart.com/ISMRM2018/PDFfiles/4093.html "Link")
 
 ## Thesis
