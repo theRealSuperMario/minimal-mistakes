@@ -28,7 +28,7 @@ feature_row_publications:
    alt: "Bachelor Thesis"
    title: "Bachelor Thesis"
    excerpt: "German title: Simulation einer Lichtfeld Kamera mit Blendenmodulation. English translation: Simulation of lightfield cameras using aperture modulation."
-   url: "http://indexsmart.mirasmart.com/ISMRM2018/PDFfiles/4093.html"
+   url: "https://www.dropbox.com/s/afq30s1223xrel9/SimulationEinerLichtfeldKameraMitBlendenmodulation.pdf?dl=0"
    btn_label: "Read Thesis (German)"
    btn_class: "btn--inverse" 
 
@@ -102,7 +102,7 @@ I have past experience on computational cameras and displays, image quality asse
 
 Currently, I am interested in more theoretical parts of machine learning. I am also working on semantic segmentation of lidar data.
 
-In my spare time I organize events through [Hack & Söhne](hackundsoehne.de "Hack & Soehne Website") and [take photos](/photos/ "Check out my gallery").
+In my spare time I organize events through [Hack & Söhne](https://hackundsoehne.de/ "Hack & Soehne Website") and [take photos](/photos/ "Check out my gallery").
 <br>
 <br>
 
