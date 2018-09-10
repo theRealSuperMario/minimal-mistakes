@@ -63,12 +63,38 @@ feature_row_activities:
    url: "https://github.com/ML-KA/PDG-Theory"
    btn_label: "Theory PDG on Github"
    btn_class: "btn--inverse"   
+
+feature_row_publications:
+ - image_path: /assets/images/index_page/publication_iq.png
+   alt: "Poster Presentation at ISMRM 2018"
+   title: "Poster Presentation at ISMRM 2018"
+   excerpt: "S. Braun, X. Chen, B. Odry, B. Mailhe, M. Nadar, “Motion Detection and Quality Assessment of MR images with Deep Convolutional DenseNets”, Proc. Intl. Soc. Mag. Reson. Med. 26:2715 (2018), Paris"
+   url: "http://indexsmart.mirasmart.com/ISMRM2018/PDFfiles/2715.html"
+   btn_label: "Read Publication"
+   btn_class: "btn--inverse"
+
+ - image_path: /assets/images/index_page/publication_moco.png
+   alt: "Poster Presentation at ISMRM 2018"
+   title: "Poster Presentation at ISMRM 2018"
+   excerpt: "S. Braun, P. Ceccaldi, X. Chen, B. Odry, B. Mailhe, M. Nadar, “Wasserstein GAN for Motion Artifact Reduction of MR images”, Proc. Intl. Soc. Mag. Reson. Med. 26:4093 (2018), Paris"
+   url: "http://indexsmart.mirasmart.com/ISMRM2018/PDFfiles/4093.html"
+   btn_label: "Read Publication"
+   btn_class: "btn--inverse"     
+
+ - image_path: /assets/images/index_page/thesis_LF.png
+   alt: "Bachelor Thesis"
+   title: "Bachelor Thesis"
+   excerpt: "German title: Simulation einer Lichtfeld Kamera mit Blendenmodulation. English translation: Simulation of lightfield cameras using aperture modulation."
+   url: "http://indexsmart.mirasmart.com/ISMRM2018/PDFfiles/4093.html"
+   btn_label: "Read Thesis (German)"
+   btn_class: "btn--inverse"     
+
 ---
 
 
 # About Me
 
-I'm a Master student at Karlsruhe Institute of Technology with a background in signal processing.
+I'm a Master's student at Karlsruhe Institute of Technology with a background in signal processing.
 I have past experience on computational cameras and displays, image quality assessment and motion artefact reduction in magnetic resonance images and deep learning. 
 
 Currently, I am interested in
@@ -76,15 +102,9 @@ more theoretical parts of machine learning.
 
 ---
 
-# Projects and Publications
+# Publications and Projects
 
-Poster Presentation <br/>
-[S. Braun, X. Chen, B. Odry, B. Mailhe, M. Nadar, “Motion Detection and Quality Assessment of MR images with Deep Convolutional DenseNets”, Proc. Intl. Soc. Mag. Reson. Med. 26:2715 (2018), Paris](http://indexsmart.mirasmart.com/ISMRM2018/PDFfiles/2715.html "Link")
-
-Poster Presentation <br/>
-[S. Braun, P. Ceccaldi, X. Chen, B. Odry, B. Mailhe, M. Nadar, “Wasserstein GAN for Motion Artifact Reduction of MR images”, Proc. Intl. Soc. Mag. Reson. Med. 26:4093 (2018), Paris](http://indexsmart.mirasmart.com/ISMRM2018/PDFfiles/4093.html "Link")
-
----
+{% include feature_row id="feature_row_publications" %}
 
 # Teaching and Workshops
 
