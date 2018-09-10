@@ -1,5 +1,5 @@
 ---
-title: "Hi, my name is Sandro."
+title: "Hi! My name is Sandro."
 type: pages
 layout: splash
 header:
@@ -93,7 +93,7 @@ feature_row_activities:
 ---
 
 
-# Hi, my name is Sandro
+# Hi! My name is Sandro
 
 
 ![align-left]({{ site.url }}{{ site.baseurl }}/assets/images/index_page/avatar.jpg){: .align-left}
