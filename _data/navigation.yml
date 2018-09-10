@@ -4,6 +4,8 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Hi! My name is"
     url: /
+  - title: "Github"
+    url: https://github.com/therealsupermario
 #  - title: "Image Processing"
 #    url: /imageProcessing/
 #  - title: "Productivity"
