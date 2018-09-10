@@ -2,16 +2,16 @@
 main:
   #- title: "Quick-Start Guide"
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: /about/
+  - title: "Hi, my name is"
+    url: /
 #  - title: "Image Processing"
 #    url: /imageProcessing/
 #  - title: "Productivity"
 #    url: /productivity/
 #  - title: "Pure Math"
 #    url: /pureMath/    
-  - title: "Research"
-    url: /research/
+#  - title: "Research"
+#    url: /research/
   - title: "Photos"
     url: /photos/
   
