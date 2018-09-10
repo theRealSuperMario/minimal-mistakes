@@ -103,7 +103,7 @@ I have past experience on computational cameras and displays, image quality asse
 Currently, I am interested in more theoretical parts of machine learning. I am also working on semantic segmentation of lidar data.
 
 In my spare time I organize events through [Hack & Söhne](https://hackundsoehne.de/ "Hack & Soehne Website") and [take photos](/photos/ "Check out my gallery").
-Follow me on github where my name is [theRealSuperMario](https://github.com/therealsupermario, "link to my github profile").
+Follow me on github where my name is [theRealSuperMario](https://github.com/therealsupermario "link to my github profile").
 <br>
 <br>
 
