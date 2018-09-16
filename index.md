@@ -1,5 +1,5 @@
 ---
-title: "Hi! My name is Sandro."
+title: "About"
 type: pages
 layout: splash
 header:
@@ -36,7 +36,7 @@ feature_row_teaching:
  - image_path: /assets/images/index_page/teaching_dlws.jpg
    alt: "Deep Learning Workshop"
    title: "Deep Learning Workshop"
-   excerpt: "A workshop I did through Hack & Söhne together with Maximillian Franz and Leander. We wanted to make very low level concepts clear and not just do   tensorflow.train()."
+   excerpt: "A workshop I did through Hack & Söhne together with Maximilian Franz and Leander Kurscheidt. We wanted to make very low level concepts clear and not just do   tensorflow.train()."
    btn_label: "Workshop Website"
    btn_class: "btn--inverse"   
    url: "https://hackundsoehne.de/deeplearning"
@@ -97,13 +97,13 @@ feature_row_activities:
 
 
 ![align-left]({{ site.url }}{{ site.baseurl }}/assets/images/index_page/avatar.jpg){: .align-left}
-I'm a Master's student at Karlsruhe Institute of Technology with a background in signal processing.
+I'm a Master student at Karlsruhe Institute of Technology with a background in signal processing.
 I have past experience on computational cameras and displays, image quality assessment and motion artefact reduction in magnetic resonance images and deep learning. 
 
-Currently, I am interested in more theoretical parts of machine learning. I am also working on semantic segmentation of lidar data.
+Currently, I am focussing on more theoretical parts of machine learning while increasing my hands-on experience through semantic segmentation of lidar data.
 
 In my spare time I organize events through [Hack & Söhne](https://hackundsoehne.de/ "Hack & Soehne Website") and [take photos](/photos/ "Check out my gallery").
-Follow me on github where my name is [theRealSuperMario](https://github.com/therealsupermario "link to my github profile").
+[Follow me on github](https://github.com/therealsupermario "Sandro on Github").
 <br>
 <br>
 
