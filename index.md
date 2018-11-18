@@ -3,7 +3,7 @@ title: "About"
 type: pages
 layout: splash
 header:
-  image: /assets/images/index_page/header.jpg
+  image: /assets/images/index_page/header.png
 author_profile: true
 permalink: /
 
@@ -88,7 +88,16 @@ feature_row_activities:
    excerpt: "I have a passion for photography. Check out my gallery."
    url: "/photos/"
    btn_label: "Photo Gallery"
-   btn_class: "btn--inverse"       
+   btn_class: "btn--inverse"  
+   
+feature_row_hackathonprojects:
+ - image_path: /assets/images/index_page/activities_och.jpg
+   alt: "GRO - AI for lead management"
+   title: "GRO - AI for lead management"
+   excerpt: "Automatically classify a company into it's industry just by analyzing their webpage."
+   url: "https://github.com/LeanderK/deeptech-ai"
+   btn_label: "View on Github"
+   btn_class: "btn--inverse"
 
 ---
 
