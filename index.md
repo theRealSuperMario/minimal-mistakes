@@ -89,7 +89,16 @@ feature_row_activities:
    url: "/photos/"
    btn_label: "Photo Gallery"
    btn_class: "btn--inverse"  
-   
+
+feature_row_awards:
+ - image_path: /assets/images/index_page/awards_re18.png
+   alt: "Prize for Best Visualization"
+   title: "Prize for Best Visualization"
+   excerpt: "We won the prize for best visualization at the Munich RE Datathon 2018. The challenge was to estimate children's height from point clouds. This would revolutionize the child growth monitoring in poor countries and would be a huge step towards eliminating global hunger. Our approach combined 2D and 3D data, using state of the art Computer Vision and point cloud processing."
+   url: "https://github.com/theRealSuperMario/datathonistas_2018"
+   btn_label: "Go To Github Project"
+   btn_class: "btn--inverse"
+
 feature_row_hackathonprojects:
  - image_path: /assets/images/index_page/activities_och.jpg
    alt: "GRO - AI for lead management"
@@ -122,6 +131,10 @@ In my spare time I organize events through [Hack & Söhne](https://hackundsoehne
 # Publications and Projects
 
 {% include feature_row id="feature_row_publications" %}
+
+# Awards
+
+{% include feature_row id="feature_row_awards" %}
 
 # Teaching and Workshops
 
