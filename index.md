@@ -33,10 +33,18 @@ feature_row_publications:
    btn_class: "btn--inverse" 
 
 feature_row_teaching:
+ - image_path: /assets/images/index_page/teaching_gpn.jpg
+   alt: "Workshop at GPN 19"
+   title: "Workshop at GPN 19"
+   excerpt: "I gave a workshop at Gulasch Programmiernacht 2019 on Machine Learning Workflow Tools together with Leander Kurscheidt."
+   btn_label: "Workshop Website"
+   btn_class: "btn--inverse"   
+   url: "https://github.com/theRealSuperMario/GPN19"
+
  - image_path: /assets/images/index_page/teaching_dlws.jpg
    alt: "Deep Learning Workshop"
    title: "Deep Learning Workshop"
-   excerpt: "A workshop I did through Hack & Söhne together with Maximilian Franz and Leander Kurscheidt. We wanted to make very low level concepts clear and not just do   tensorflow.train()."
+   excerpt: "A workshop I did through Hack & Söhne together with Maximilian Franz and Leander Kurscheidt. We wanted to make very low level concepts clear and not just do tensorflow.train()."
    btn_label: "Workshop Website"
    btn_class: "btn--inverse"   
    url: "https://hackundsoehne.de/deeplearning"
