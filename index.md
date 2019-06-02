@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: "Hi! My name is Sandro"
 type: pages
-layout: splash
+layout: single
 header:
   image: /assets/images/index_page/header.png
 author_profile: true
@@ -119,7 +119,7 @@ feature_row_hackathonprojects:
 ---
 
 
-# Hi! My name is Sandro
+
 
 
 ![align-left]({{ site.url }}{{ site.baseurl }}/assets/images/index_page/avatar.jpg){: .align-left}

@@ -102,11 +102,11 @@ analytics:
 author:
   name             : "Sandro Braun"
   avatar           : /assets/images/avatar.jpg# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "My personal trinity: image processing, productivity & the pure math. Photographer on the side."
+  bio              : "Electrical Engineer with computer vision skills."
   location         : "Currently Germany"
   email            : 
   uri              : 
-  home             : # null (default), "absolute or relative url to link to author home"
+  home             : /about # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -125,11 +125,14 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : therealsuperm10
   vine             :
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  links:
+    - label: "Github"
+      url: "https://github.com/theRealSuperMario/"
 
 
 # Reading Files
@@ -267,10 +270,10 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+#      layout: single
       author_profile: true
       read_time: false # true
-      comments: false # true
+      comments: true # true
       share: false # true
       related: false # true
 
