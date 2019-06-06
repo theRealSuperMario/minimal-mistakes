@@ -1,7 +1,7 @@
 ---
 title: "Hi! My name is Sandro"
 type: pages
-layout: single
+layout: splash
 header:
   image: /assets/images/index_page/header.png
 author_profile: true
@@ -30,7 +30,31 @@ feature_row_publications:
    excerpt: "German title: Simulation einer Lichtfeld Kamera mit Blendenmodulation. English translation: Simulation of lightfield cameras using aperture modulation."
    url: "https://www.dropbox.com/s/afq30s1223xrel9/SimulationEinerLichtfeldKameraMitBlendenmodulation.pdf?dl=0"
    btn_label: "Read Thesis (German)"
-   btn_class: "btn--inverse" 
+   btn_class: "btn--inverse"
+
+ - image_path: /assets/images/index_page/fpga.PNG
+   alt: "FPGA Programming Project (VHDL)"
+   title: "FPGA Programming Project (VHDL)"
+   excerpt: "FPGA Programming Project (VHDL) as part of my semester project"
+   url: https://www.dropbox.com/s/5gspatnwxch27eb/Report_FPGA.pdf?dl=0
+   btn_label: "Report"
+   btn_class: "btn--inverse"
+
+ - image_path: /assets/images/index_page/ws_I.png
+   alt:   "50W Boost Converter"
+   title: "50W Boost Converter"
+   excerpt: "A semester project to build a 50W DC-DC Boost Converter"
+   url: https://www.dropbox.com/s/7uk9md2vnugglpm/WS_ETI_Datenblatt_SandroBraun_ohneFirma.pdf?dl=0
+   btn_label: "Report"
+   btn_class: "btn--inverse"
+
+ - image_path: /assets/images/index_page/ws_II.png
+   alt:   "Micro-controller programming : controller for 200W DC-DC buck converter"
+   title: "Micro-controller programming : controller for 200W DC-DC buck converter"
+   excerpt: "A semester project programa micro-controller for to control a 200W DC-DC buck converter" 
+   url: https://www.dropbox.com/s/k6vtoqt5ak8dyox/WSETI_II_SandroBraun_Dokumentation.pdf?dl=0
+   btn_label: "Report"
+   btn_class: "btn--inverse"
 
 feature_row_teaching:
  - image_path: /assets/images/index_page/teaching_gpn.jpg
@@ -123,10 +147,9 @@ feature_row_hackathonprojects:
 
 
 ![align-left]({{ site.url }}{{ site.baseurl }}/assets/images/index_page/avatar.jpg){: .align-left}
-I'm a Master student at Karlsruhe Institute of Technology with a background in signal processing.
-I have past experience on computational cameras and displays, image quality assessment and motion artefact reduction in magnetic resonance images and deep learning. 
+I'm a Master student at Karlsruhe Institute of Technology with a background in Electrical Engineering.
 
-Currently, I am focussing on more theoretical parts of machine learning while increasing my hands-on experience through semantic segmentation of lidar data.
+Currently, I am working on unsupervised discovery of parts and segmentation with Prof. Björn Ommer in Heidelberg (Master Thesis).
 
 In my spare time I organize events through [Hack & Söhne](https://hackundsoehne.de/ "Hack & Soehne Website") and [take photos](/photos/ "Check out my gallery").
 [Follow me on github](https://github.com/therealsupermario "Sandro on Github").
