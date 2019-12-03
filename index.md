@@ -35,15 +35,15 @@ feature_row_publications:
  - image_path: /assets/images/index_page/fpga.PNG
    alt: "FPGA Programming Project (VHDL)"
    title: "FPGA Programming Project (VHDL)"
-   excerpt: "FPGA Programming Project (VHDL) as part of my semester project"
+   excerpt: "FPGA Programming Project (VHDL) as part of my semester project."
    url: https://www.dropbox.com/s/5gspatnwxch27eb/Report_FPGA.pdf?dl=0
    btn_label: "Report"
    btn_class: "btn--inverse"
 
  - image_path: /assets/images/index_page/ws_I.png
    alt:   "50W Boost Converter"
-   title: "50W Boost Converter"
-   excerpt: "A semester project to build a 50W DC-DC Boost Converter"
+   title: "Semester project: 50W Boost Converter circuit design"
+   excerpt: "Build a 50W DC-DC Boost Converter from scratch."
    url: https://www.dropbox.com/s/7uk9md2vnugglpm/WS_ETI_Datenblatt_SandroBraun_ohneFirma.pdf?dl=0
    btn_label: "Report"
    btn_class: "btn--inverse"
@@ -51,7 +51,7 @@ feature_row_publications:
  - image_path: /assets/images/index_page/ws_II.png
    alt:   "Micro-controller programming : controller for 200W DC-DC buck converter"
    title: "Micro-controller programming : controller for 200W DC-DC buck converter"
-   excerpt: "A semester project programa micro-controller for to control a 200W DC-DC buck converter" 
+   excerpt: "Program a micro-controller to control a 200W DC-DC buck converter." 
    url: https://www.dropbox.com/s/k6vtoqt5ak8dyox/WSETI_II_SandroBraun_Dokumentation.pdf?dl=0
    btn_label: "Report"
    btn_class: "btn--inverse"
@@ -131,6 +131,14 @@ feature_row_awards:
    btn_label: "Go To Github Project"
    btn_class: "btn--inverse"
 
+ - image_path: /assets/images/index_page/awards_ultrahack19.png
+   alt: "Winner of EIT Digital Deephack Hackathon Hamburg"
+   title: "Winner of EIT Digital Deephack Hackathon Hamburg"
+   excerpt: "We won the EIT Digital Deephack Hackathon Hamburg 2019 with our project ScrubberWatch. The idea behind ScrubberWatch is to detect the level of emissions of incoming ships in the Hamburg Harbour using Computer Vision."
+   url: "https://github.com/MaximilianFranz/ScrubberWatch"
+   btn_label: "Go To Github Project"
+   btn_class: "btn--inverse"   
+
 feature_row_hackathonprojects:
  - image_path: /assets/images/index_page/activities_och.jpg
    alt: "GRO - AI for lead management"
@@ -139,7 +147,6 @@ feature_row_hackathonprojects:
    url: "https://github.com/LeanderK/deeptech-ai"
    btn_label: "View on Github"
    btn_class: "btn--inverse"
-
 ---
 
 
